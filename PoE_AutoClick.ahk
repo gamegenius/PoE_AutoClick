@@ -1374,7 +1374,7 @@ CheckUpdate(CheckFrom)
     if(FileExist("update.exe") != ""){
         RunWait,update.exe %CheckFrom%
     }else{
-        UrlDownloadToFile,https://github.com/gamegenius/PoE_AutoClick/releases/download/update_program/update.exe,update.exe
+        UrlDownloadToFile,https://github.com/gamegenius/PoE_AutoClick/releases/latest/download/update.exe,update.exe
     }
 
 }
