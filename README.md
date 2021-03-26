@@ -1,6 +1,6 @@
 # PoE_AutoClick
 
-最新版本 https://github.com/gamegenius/PoE_AutoClick/releases/latest
+最新版本 https://github.com/gamegenius/PoE_AutoClick/releases/latest (下載對應版本號的ZIP檔案解壓縮就可以使用)
 
 ****************************************************************************************************
 
