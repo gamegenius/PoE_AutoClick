@@ -1,0 +1,1 @@
+RunWait "D:\Program Files\AutoHotkey\Compiler\Ahk2Exe.exe" /in "D:\Downloads\poe小工具\PoE_AutoClick\update.ahk" /out "D:\Downloads\poe小工具\PoE_AutoClick\update.exe" /bin "D:\Program Files\AutoHotkey\Compiler\AutoHotkeySC.bin" /compress 0
