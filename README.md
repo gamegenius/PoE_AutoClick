@@ -1,5 +1,7 @@
 # PoE_AutoClick
 
+最新版本 https://github.com/gamegenius/PoE_AutoClick/releases/latest
+
 ****************************************************************************************************
 
 程式名稱：PoE_AutoClick
